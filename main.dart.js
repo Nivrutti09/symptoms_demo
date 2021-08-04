@@ -69828,7 +69828,7 @@ F.a0C.prototype={
 $2:function(a,b){return new G.o_(null)},
 $S:435}
 F.a0D.prototype={
-$1:function(a){return new Y.mX(H.b([new Y.mF("dSymptoms","",C.tD),new Y.mF("Languages","",C.tw),new Y.mF("Credits","",C.tr),new Y.mF("Disease Vector","",C.tB)],t.OI),null)},
+$1:function(a){return new Y.mX(H.b([new Y.mF("dSymptoms","",C.tD),new Y.mF("Credits","",C.tw),new Y.mF("Languages","",C.tr),new Y.mF("Disease Vector","",C.tB)],t.OI),null)},
 $S:436}
 F.a0E.prototype={
 $1:function(a){return new T.iW(null)},
@@ -70039,9 +70039,9 @@ a1C:function(a){var s,r=null
 this.V(new Y.YX())
 switch(a){case 0:s=$.SZ=new X.zK(r)
 break
-case 2:s=$.SZ=new G.vj(r)
+case 1:s=$.SZ=new G.vj(r)
 break
-case 1:s=$.SZ=new U.wD(r)
+case 2:s=$.SZ=new U.wD(r)
 break
 case 3:s=$.SZ=new M.zF(r)
 break
